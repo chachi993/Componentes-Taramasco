@@ -1,0 +1,21 @@
+ .contents {
+  background-color: #ece3e3;
+  text-align: center;
+   padding: 35px 35px 35px 35px;
+  height:100vh;
+
+}
+
+.card-img-top {
+  height: 40vh;
+  object-fit: cover;
+}
+.card-title
+{
+  font-weight: bold;
+}
+.card .h-100,
+#card{
+margin: 20px;
+}
+
